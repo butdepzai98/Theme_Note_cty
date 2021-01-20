@@ -7,3 +7,10 @@ php bin/magento setup:static-content:deploy -f; chmod -R 777 var/*;chmod -R 777 
 php -d memory_limit=6G bin/magento setup:static-content:deploy -f;chmod -R 777 var/;chmod -R 777 pub/static/;chmod -R 777 generated/*; php bin/magento cache:clean;
 
 chmod -R 777 var/*;chmod -R 777 pub/static/*;chmod -R 777 generated/*;
+
+
+# Server 73
+IP: 125.212.229.17
+Port: 2222
+Tk User: aht_g3/AHT@#g3$2021
+Tk Root: root/AHT@123456
