@@ -14,3 +14,9 @@ IP: 125.212.229.17
 Port: 2222
 Tk User: aht_g3/AHT@#g3$2021
 Tk Root: root/AHT@123456
+
+# Server 72
+72.arrowhitech.net
+Port: 22222
+aht_g3 | @htG3678
+
