@@ -6,6 +6,8 @@ php bin/magento s:s:d -f; chmod -R 777 var/*;chmod -R 777 pub/static/*;chmod -R 
 
 php -d memory_limit=6G bin/magento s:s:d -f;chmod -R 777 var/;chmod -R 777 pub/static/;chmod -R 777 generated/*; php bin/magento c:c;
 
+php bin/magento setup:static-content:deploy nl_NL en_US fr_FR -f
+
 chmod -R 777 var/*;chmod -R 777 pub/static/*;chmod -R 777 generated/*;
 
 
