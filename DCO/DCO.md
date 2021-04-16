@@ -1,5 +1,7 @@
 #	Deploy
 
+COMPOSER_MEMORY_LIMIT=-1 composer require 
+
 rm -rf var/*; rm -rf pub/static/*; rm -rf generated/*;
 
 php bin/magento s:s:d -f; chmod -R 777 var/*;chmod -R 777 pub/static/*;chmod -R 777 generated/*; php bin/magento c:c;
@@ -22,3 +24,7 @@ Tk Root: root/AHT@123456
 Port: 22222 <br>
 aht_g3 | @htG3678 <br>
 apache | @htadmin2016
+
+# Upgrade version magento
+composer require magento/product-community-edition=2.4.0 --no-update
+composer update
