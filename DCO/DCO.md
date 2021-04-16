@@ -26,5 +26,4 @@ aht_g3 | @htG3678 <br>
 apache | @htadmin2016
 
 # Upgrade version magento
-composer require magento/product-community-edition=2.4.0 --no-update
-composer update
+composer require magento/product-community-edition=2.4.0 --no-update; composer update
