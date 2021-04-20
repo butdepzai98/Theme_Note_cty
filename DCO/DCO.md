@@ -14,8 +14,8 @@ chmod -R 777 var/*;chmod -R 777 pub/static/*;chmod -R 777 generated/*;
 
 
 # Server 73
-IP: 125.212.229.17
-Port: 2222
+IP: 125.212.229.33
+Port: 8022
 Tk User: aht_g3/AHT@#g3$2021
 Tk Root: root/AHT@123456
 
