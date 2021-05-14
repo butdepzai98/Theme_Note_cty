@@ -28,3 +28,8 @@ apache | @htadmin2016
 # Upgrade version magento
 COMPOSER_MEMORY_LIMIT=-1 composer require magento/product-community-edition=2.4.2 --no-update;
 COMPOSER_MEMORY_LIMIT=-1 composer update
+
+
+# Khi làm style, chỉ đc dùng các khoảng @media sau:
+Min: 576px, 768px, 992px, 1200px
+Max: 374.98px, 575.98px, 767.98px, 991.98px, 1199.98px
