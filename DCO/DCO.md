@@ -12,6 +12,10 @@ php bin/magento s:s:d nl_NL en_US fr_FR -f
 
 chmod -R 777 var/*;chmod -R 777 pub/static/*;chmod -R 777 generated/*;
 
+# Server 74
+172.16.0.40 
+g3/@htG3678
+apache/@htadmin2016
 
 # Server 73
 IP: 125.212.229.33
