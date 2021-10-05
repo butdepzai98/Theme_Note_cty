@@ -37,3 +37,13 @@ COMPOSER_MEMORY_LIMIT=-1 composer update
 # Khi làm style, chỉ đc dùng các khoảng @media sau:
 Min: 576px, 768px, 992px, 1200px
 Max: 374.98px, 575.98px, 767.98px, 991.98px, 1199.98px
+
+
+# DCO
+User name
+codecommit-at-012924156835
+Password
+DSa59gV6LFxRP4xxxQrFM28Tv1Xbp2a+/yBLPkycFq0=
+
+
+git clone https://git-codecommit.ap-southeast-2.amazonaws.com/v1/repos/chemistoutlet-m2 dco
