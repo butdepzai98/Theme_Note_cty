@@ -40,10 +40,10 @@ Max: 374.98px, 575.98px, 767.98px, 991.98px, 1199.98px
 
 
 # DCO
-User name
-codecommit-at-012924156835
-Password
-DSa59gV6LFxRP4xxxQrFM28Tv1Xbp2a+/yBLPkycFq0=
-
-
+User name                                       <br>
+codecommit-at-012924156835                      <br>
+Password                                        <br>
+DSa59gV6LFxRP4xxxQrFM28Tv1Xbp2a+/yBLPkycFq0=    <br>
+                                                <br>
+                                                <br>
 git clone https://git-codecommit.ap-southeast-2.amazonaws.com/v1/repos/chemistoutlet-m2 dco
