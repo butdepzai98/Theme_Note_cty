@@ -17,6 +17,11 @@ chmod -R 777 var/*;chmod -R 777 pub/static/*;chmod -R 777 generated/*;
 g3/@htG3678
 apache/@htadmin2016
 
+# Server 74 Home
+222.252.30.29
+Port: 14022
+g3/@htG3678
+
 # Server 73
 IP: 125.212.229.33
 Port: 8022
